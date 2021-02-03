@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">devoir1</string>
+    <string name="btnTxtOnCreate">Cliquer sur le bouton pour commencer</string>
+    <string name="btnTxtWait">Attendre que le bouton devienne jaune...</string>
+    <string name="btnTxtStart">Cliquer maintenant!</string>
+    <string name="btnTxtError">Il faut attendre que le bouton soit devenu jaune pour cliquer!</string>
+    <string name="btnTxtSuccess">Bon travail!</string>
+    <string name="nbEssaiTxt">Essai: </string>
+    <string name="initialTimerTxt">0.000</string>
+    <string name="completedTestTxt">Test completé</string>
+    <string name="averageTimeTxt">Temps de réaction moyen: </string>
+    <string name="okBtnTxt">OK</string>
+</resources>
